@@ -1,2 +1,3 @@
 "Welcome to git"
 "Modifying file1"
+"Modifying file2"
